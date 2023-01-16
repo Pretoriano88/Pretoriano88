@@ -1,4 +1,4 @@
-### Hi, there, João PAulo  👋
+### Hi, there, I'm João Paulo 👋
 
 
 *JoãoPaulo/Pretoriano88* 
@@ -28,5 +28,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="html5" width="40" height="40"/> </a>
 </p>
 
+![imagem](https://github-readme-stats.vercel.app/api?username=wandersonzz&show_icons=true&theme=dark)
 
+[![Meu perfil Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/Pretoriano88-4a7027101/)
 
