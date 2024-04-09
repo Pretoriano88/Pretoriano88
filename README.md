@@ -4,7 +4,8 @@
 *JoãoPaulo/Pretoriano88* 
 
 
-- 🔭 My last work as a system implementation analyst at ElvenWorks system company.  [![logoElven]([https://elven.works/wp-content/uploads/2022/01/favicon_site-1.png)](https://elven.works/)
+- 🔭 My last work as a system implementation analyst at ElvenWorks system company. [![logoElven](https://elven.works/wp-content/uploads/2022/01/favicon_site-1.png)](https://elven.works/)
+
 - 🌱 I'm currently studying reactjs, react native, typescript, nodejs
 - 👯 I’m looking to collaborate on Educational and Social impact open source projects
 - 😄 Pronouns: He/His
