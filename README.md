@@ -31,5 +31,5 @@
 
 ![imagem](https://github-readme-stats.vercel.app/api?username=Pretoriano88&show_icons=true&theme=dark)
 
-[![Meu perfil Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)]([https://www.linkedin.com/in/jo%C3%A3o-paulo-de-sousa-oliveira-b827257a/](https://www.linkedin.com/in/jo%C3%A3o-paulo-s-oliveira-b827257a/)
+[![Meu perfil Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-de-sousa-oliveira-b827257a/)
 
