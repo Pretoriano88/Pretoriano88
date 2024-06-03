@@ -6,7 +6,7 @@
 
 - 🔭 My last work as NOC/SRE/DEVOPS at ElvenWorks system company. [![logoElven](https://elven.works/wp-content/uploads/2022/01/favicon_site-1.png)](https://elven.works/)
 
-- 🌱 I'm currently studying reactjs, react native, typescript, nodejs
+- 🌱 I'm currently studying reactjs, AWS, Terraform, Ansible, Docker
 - 👯 I’m looking to collaborate on Educational and Social impact open source projects
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: things that fly
