@@ -4,7 +4,7 @@
 *JoãoPaulo/Pretoriano88* 
 
 
-- 🔭 My last work as NOC/SRE/DEVOPS at ElvenWorks system company. [![logoElven](https://elven.works/wp-content/uploads/2022/01/favicon_site-1.png)](https://elven.works/)
+- 🔭 My last work as SRE/DEVOPS at ElvenWorks system company. [![logoElven](https://elven.works/wp-content/uploads/2022/01/favicon_site-1.png)](https://elven.works/)
 
 - 🌱 I'm currently studying AWS, Terraform, Ansible, Docker
 - 👯 I’m looking to collaborate on Educational and Social impact open source projects
